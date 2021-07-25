@@ -2,6 +2,6 @@
 Packages and libraries used-
     • opencv
     • cvzone
-    • os
+    • mediapipe
 Language used-
     • python
