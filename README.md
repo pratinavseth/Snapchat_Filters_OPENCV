@@ -1,4 +1,8 @@
 # IEEE_SBM_Snapchat_Filters_OPENCV
+Tried to recreate look of scientist 
+<br>
+Tried to add scientific googles , apron and change of background on input webcam image.
+<br>
 Packages and libraries used-
     • opencv
     • cvzone
